@@ -1,0 +1,157 @@
+{
+ "Files" : [
+  {
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/HDMI_Sameer_hdlutil/audio_clock_regeneration_packet.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/HDMI_Sameer_hdlutil/audio_info_frame.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/HDMI_Sameer_hdlutil/audio_sample_packet.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/HDMI_Sameer_hdlutil/auxiliary_video_information_info_frame.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/HDMI_Sameer_hdlutil/hdmi.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/HDMI_Sameer_hdlutil/packet_assembler.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/HDMI_Sameer_hdlutil/packet_picker.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/HDMI_Sameer_hdlutil/serializer.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/HDMI_Sameer_hdlutil/source_product_description_info_frame.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/HDMI_Sameer_hdlutil/tmds_channel.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/Denoise/denoise_low.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/Denoise/denoise_low8.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/MSX_Interceptor.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/PSG_YM2149/YM2149.vhdl",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/src/gowin_clkdiv2/gowin_clkdiv2.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/src/gowin_clkdiv4/gowin_clkdiv4.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/src/gowin_rpll/gowin_rpll.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/src/gowin_rpll2/gowin_rpll2.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_color.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_core.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_counters.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_cpu.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_div32x16.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_gpu.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_single_port_ram.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_sprites.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_tile_linebuf.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_tiles.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_version.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_vga_cont_640_60.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/tn9k_f18a/f18a_vram.vhd",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/datos/proyectos/42_Tang_Nano_9k/24_MSX_hdmi_tn9k/impl/temp/rtl_parser.result",
+ "Top" : "MSX_Interceptor",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_2008"
+}

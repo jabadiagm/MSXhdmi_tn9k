@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "esquema_1")(type "KiCad")(uri "$(KIPRJMOD)/msx_hdmi_tn9k.pretty")(options "")(descr ""))
+  (lib (name "Mis_huellas")(type "KiCad")(uri "${KIPRJMOD}/librerias/Mis_huellas.pretty")(options "")(descr ""))
+)

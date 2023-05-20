@@ -1,0 +1,42 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1NR-9C" pn="GW1NR-LV9QN88PC6/I5">gw1nr9c-004</Device>
+    <FileList>
+        <File path="HDMI_Sameer_hdlutil/audio_clock_regeneration_packet.sv" type="file.verilog" enable="1"/>
+        <File path="HDMI_Sameer_hdlutil/audio_info_frame.sv" type="file.verilog" enable="1"/>
+        <File path="HDMI_Sameer_hdlutil/audio_sample_packet.sv" type="file.verilog" enable="1"/>
+        <File path="HDMI_Sameer_hdlutil/auxiliary_video_information_info_frame.sv" type="file.verilog" enable="1"/>
+        <File path="HDMI_Sameer_hdlutil/hdmi.sv" type="file.verilog" enable="1"/>
+        <File path="HDMI_Sameer_hdlutil/packet_assembler.sv" type="file.verilog" enable="1"/>
+        <File path="HDMI_Sameer_hdlutil/packet_picker.sv" type="file.verilog" enable="1"/>
+        <File path="HDMI_Sameer_hdlutil/serializer.sv" type="file.verilog" enable="1"/>
+        <File path="HDMI_Sameer_hdlutil/source_product_description_info_frame.sv" type="file.verilog" enable="1"/>
+        <File path="HDMI_Sameer_hdlutil/tmds_channel.sv" type="file.verilog" enable="1"/>
+        <File path="Denoise/denoise_low.vhd" type="file.vhdl" enable="1"/>
+        <File path="Denoise/denoise_low8.vhd" type="file.vhdl" enable="1"/>
+        <File path="MSX_Interceptor.vhd" type="file.vhdl" enable="1"/>
+        <File path="PSG_YM2149/YM2149.vhdl" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_clkdiv2/gowin_clkdiv2.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_clkdiv4/gowin_clkdiv4.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_rpll/gowin_rpll.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gowin_rpll2/gowin_rpll2.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_color.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_core.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_counters.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_cpu.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_div32x16.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_gpu.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_single_port_ram.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_sprites.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_tile_linebuf.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_tiles.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_version.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_vga_cont_640_60.vhd" type="file.vhdl" enable="1"/>
+        <File path="tn9k_f18a/f18a_vram.vhd" type="file.vhdl" enable="1"/>
+        <File path="tang9k.cst" type="file.cst" enable="1"/>
+        <File path="timing.sdc" type="file.sdc" enable="1"/>
+    </FileList>
+</Project>

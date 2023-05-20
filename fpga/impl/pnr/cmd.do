@@ -1,0 +1,12 @@
+-d D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\impl\gwsynthesis\MSX_hdmi_tn9k.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tang9k.cst
+-cfg D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\impl\pnr\device.cfg
+-sdc D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\timing.sdc
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 23

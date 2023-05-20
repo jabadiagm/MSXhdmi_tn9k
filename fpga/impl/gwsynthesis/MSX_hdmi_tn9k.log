@@ -1,0 +1,185 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\audio_clock_regeneration_packet.sv'
+WARN  (EX2478) : Non-net output port 'clk_audio_counter_wrap' cannot be initialized at declaration in SystemVerilog mode("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\audio_clock_regeneration_packet.sv":13)
+Analyzing Verilog file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\audio_info_frame.sv'
+Analyzing Verilog file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\audio_sample_packet.sv'
+Analyzing Verilog file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\auxiliary_video_information_info_frame.sv'
+Analyzing Verilog file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\hdmi.sv'
+WARN  (EX2478) : Non-net output port 'cx' cannot be initialized at declaration in SystemVerilog mode("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\hdmi.sv":81)
+WARN  (EX2478) : Non-net output port 'cy' cannot be initialized at declaration in SystemVerilog mode("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\hdmi.sv":82)
+Analyzing Verilog file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_assembler.sv'
+WARN  (EX2478) : Non-net output port 'counter' cannot be initialized at declaration in SystemVerilog mode("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_assembler.sv":11)
+Analyzing Verilog file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_picker.sv'
+Analyzing Verilog file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\serializer.sv'
+WARN  (EX3182) : Initial value of parameter 'VIDEO_RATE' is omitted("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\serializer.sv":4)
+Analyzing Verilog file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\source_product_description_info_frame.sv'
+Analyzing Verilog file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\tmds_channel.sv'
+WARN  (EX2478) : Non-net output port 'tmds' cannot be initialized at declaration in SystemVerilog mode("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\tmds_channel.sv":16)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\Denoise\denoise_low.vhd'
+Analyzing entity 'denoise_low'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\Denoise\denoise_low.vhd":5)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\Denoise\denoise_low.vhd":15)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\Denoise\denoise_low8.vhd'
+Analyzing entity 'denoise_low8'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\Denoise\denoise_low8.vhd":4)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\Denoise\denoise_low8.vhd":14)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\MSX_Interceptor.vhd'
+Analyzing entity 'msx_interceptor'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\MSX_Interceptor.vhd":10)
+Analyzing architecture 'struct'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\MSX_Interceptor.vhd":47)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl'
+Analyzing entity 'ym2149'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":62)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":94)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_clkdiv2\gowin_clkdiv2.vhd'
+Analyzing entity 'gowin_clkdiv2'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_clkdiv2\gowin_clkdiv2.vhd":13)
+Analyzing architecture 'behavioral'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_clkdiv2\gowin_clkdiv2.vhd":21)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_clkdiv4\gowin_clkdiv4.vhd'
+Analyzing entity 'gowin_clkdiv4'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_clkdiv4\gowin_clkdiv4.vhd":13)
+Analyzing architecture 'behavioral'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_clkdiv4\gowin_clkdiv4.vhd":21)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_rpll\gowin_rpll.vhd'
+Analyzing entity 'gowin_rpll'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_rpll\gowin_rpll.vhd":13)
+Analyzing architecture 'behavioral'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_rpll\gowin_rpll.vhd":20)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_rpll2\gowin_rpll2.vhd'
+Analyzing entity 'gowin_rpll2'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_rpll2\gowin_rpll2.vhd":13)
+Analyzing architecture 'behavioral'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_rpll2\gowin_rpll2.vhd":21)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_color.vhd'
+Analyzing entity 'f18a_color'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_color.vhd":56)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_color.vhd":75)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_single_port_ram.vhd'
+Analyzing entity 'f18a_single_port_ram'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_single_port_ram.vhd":55)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_single_port_ram.vhd":67)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_vram.vhd'
+Analyzing entity 'f18a_vram'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_vram.vhd":56)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_vram.vhd":74)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_div32x16.vhd'
+Analyzing entity 'f18a_div32x16'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_div32x16.vhd":57)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_div32x16.vhd":72)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd'
+Analyzing entity 'f18a_gpu'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":86)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":125)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_cpu.vhd'
+Analyzing entity 'f18a_cpu'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_cpu.vhd":56)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_cpu.vhd":146)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_vga_cont_640_60.vhd'
+Analyzing entity 'f18a_vga_cont_640_60'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_vga_cont_640_60.vhd":53)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_vga_cont_640_60.vhd":67)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_counters.vhd'
+Analyzing entity 'f18a_counters'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_counters.vhd":57)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_counters.vhd":85)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tiles.vhd'
+Analyzing entity 'f18a_tiles'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tiles.vhd":55)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tiles.vhd":112)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_sprites.vhd'
+Analyzing entity 'f18a_sprites'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_sprites.vhd":58)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_sprites.vhd":94)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_version.vhd'
+Analyzing entity 'f18a_version'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_version.vhd":51)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_version.vhd":68)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_core.vhd'
+Analyzing entity 'f18a_core'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_core.vhd":63)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_core.vhd":97)
+Analyzing VHDL file 'D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tile_linebuf.vhd'
+Analyzing entity 'f18a_tile_linebuf'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tile_linebuf.vhd":84)
+Analyzing architecture 'rtl'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tile_linebuf.vhd":102)
+Processing 'MSX_Interceptor(struct)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\MSX_Interceptor.vhd":10)
+Processing 'Gowin_rPLL(Behavioral)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_rpll\gowin_rpll.vhd":13)
+Processing 'Gowin_rPLL2(Behavioral)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_rpll2\gowin_rpll2.vhd":13)
+Processing 'Gowin_CLKDIV2(Behavioral)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_clkdiv2\gowin_clkdiv2.vhd":13)
+Processing 'Gowin_CLKDIV4(Behavioral)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\src\gowin_clkdiv4\gowin_clkdiv4.vhd":13)
+Processing 'f18a_core(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_core.vhd":63)
+Processing 'f18a_vram(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_vram.vhd":56)
+Processing 'f18a_single_port_ram(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_single_port_ram.vhd":55)
+Extracting RAM for identifier 'ram'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_single_port_ram.vhd":71)
+Processing 'f18a_cpu(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_cpu.vhd":56)
+Processing 'f18a_gpu(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":86)
+Extracting RAM for identifier 'gpuram'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":135)
+Extracting RAM for identifier 'regfile'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":171)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":518)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":1040)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":1057)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":1152)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":1210)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_gpu.vhd":1325)
+Processing 'f18a_div32x16(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_div32x16.vhd":57)
+Processing 'f18a_vga_cont_640_60(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_vga_cont_640_60.vhd":53)
+Processing 'f18a_counters(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_counters.vhd":57)
+Processing 'f18a_tiles(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tiles.vhd":55)
+Extracting RAM for identifier 'fifo'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tiles.vhd":323)
+Processing 'f18a_tile_linebuf(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tile_linebuf.vhd":84)
+Extracting RAM for identifier 'linebuf1'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tile_linebuf.vhd":105)
+Extracting RAM for identifier 'linebuf2'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tile_linebuf.vhd":106)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tiles.vhd":643)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_tiles.vhd":736)
+Processing 'f18a_sprites(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_sprites.vhd":58)
+Extracting RAM for identifier 'linebuf1'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_sprites.vhd":102)
+Extracting RAM for identifier 'linebuf2'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_sprites.vhd":103)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_sprites.vhd":368)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_sprites.vhd":394)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_sprites.vhd":808)
+Processing 'f18a_color(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_color.vhd":56)
+Extracting RAM for identifier 'colram'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_color.vhd":81)
+Processing 'f18a_version(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_version.vhd":51)
+WARN  (EX4206) : Using initial value for 'verrom' since it is never assigned("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\tn9k_f18a\f18a_version.vhd":111)
+Switching to Verilog mode to elaborate module 'hdmi'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\MSX_Interceptor.vhd":413)
+Compiling module 'hdmi(VIDEO_REFRESH_RATE=60.0,AUDIO_RATE=48000,SOURCE_DEVICE_INFORMATION=8'b00000000)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\hdmi.sv":4)
+Compiling module 'packet_picker(VIDEO_ID_CODE=1,VIDEO_RATE=25200000.0,IT_CONTENT=1'b1,AUDIO_BIT_WIDTH=16,AUDIO_RATE=48000,VENDOR_NAME=64'b0101010101101110011010110110111001101111011101110110111000000000,PRODUCT_DESCRIPTION=128'b01000110010100000100011101000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,SOURCE_DEVICE_INFORMATION=8'b00000000)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_picker.sv":4)
+Extracting RAM for identifier 'audio_sample_word_buffer'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_picker.sv":80)
+Compiling module 'audio_clock_regeneration_packet(AUDIO_RATE=48000)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\audio_clock_regeneration_packet.sv":5)
+Compiling module 'audio_sample_packet(SAMPLING_FREQUENCY=4'b0010,WORD_LENGTH=4'b0010)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\audio_sample_packet.sv":8)
+WARN  (EX3780) : Using initial value of 'CHANNEL_LEFT' since it is never assigned("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\audio_sample_packet.sv":63)
+WARN  (EX3780) : Using initial value of 'CHANNEL_RIGHT' since it is never assigned("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\audio_sample_packet.sv":64)
+Compiling module 'auxiliary_video_information_info_frame(IT_CONTENT=1'b1,VIDEO_ID_CODE=32'sb00000000000000000000000000000001)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\auxiliary_video_information_info_frame.sv":5)
+Compiling module 'source_product_description_info_frame(VENDOR_NAME=64'b0101010101101110011010110110111001101111011101110110111000000000,PRODUCT_DESCRIPTION=128'b01000110010100000100011101000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,SOURCE_DEVICE_INFORMATION=8'b00000000)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\source_product_description_info_frame.sv":5)
+Compiling module 'audio_info_frame'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\audio_info_frame.sv":5)
+WARN  (EX1998) : Net 'headers[255][23]' does not have a driver("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_picker.sv":29)
+WARN  (EX1998) : Net 'subs[255][3][55]' does not have a driver("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_picker.sv":30)
+Compiling module 'packet_assembler'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_assembler.sv":4)
+Compiling module 'tmds_channel'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\tmds_channel.sv":4)
+Compiling module 'tmds_channel(CN=1)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\tmds_channel.sv":4)
+Compiling module 'tmds_channel(CN=2)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\tmds_channel.sv":4)
+Compiling module 'serializer(VIDEO_RATE=25200000.0)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\serializer.sv":1)
+Returning to VHDL mode to continue with elaboration("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\MSX_Interceptor.vhd":413)
+Processing 'YM2149(RTL)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":62)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":169)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":225)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":305)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":529)
+'others' clause is never selected("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":589)
+Processing 'denoise_low(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\Denoise\denoise_low.vhd":5)
+Processing 'denoise_low8(rtl)'("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\Denoise\denoise_low8.vhd":4)
+NOTE  (EX0101) : Current top module is "MSX_Interceptor"
+[5%] Running netlist conversion ...
+WARN  (CV0016) : Input ex_busMreq_n is unused("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\MSX_Interceptor.vhd":21)
+WARN  (CV0016) : Input ex_btn0 is unused("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\MSX_Interceptor.vhd":34)
+Running device independent optimization ...
+WARN  (DI0003) : Latch inferred for net 'env_vol[4]';We do not recommend the use of latches in FPGA designs, as they may lead to timing problems("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":511)
+WARN  (DI0003) : Latch inferred for net 'env_vol[3]';We do not recommend the use of latches in FPGA designs, as they may lead to timing problems("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":511)
+WARN  (DI0003) : Latch inferred for net 'env_vol[2]';We do not recommend the use of latches in FPGA designs, as they may lead to timing problems("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":511)
+WARN  (DI0003) : Latch inferred for net 'env_vol[1]';We do not recommend the use of latches in FPGA designs, as they may lead to timing problems("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":511)
+WARN  (DI0003) : Latch inferred for net 'env_vol[0]';We do not recommend the use of latches in FPGA designs, as they may lead to timing problems("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":511)
+WARN  (DI0003) : Latch inferred for net 'env_inc';We do not recommend the use of latches in FPGA designs, as they may lead to timing problems("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\PSG_YM2149\YM2149.vhdl":511)
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "denoise_low" instantiated to "denoise1" is swept in optimizing("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\MSX_Interceptor.vhd":457)
+WARN  (NL0002) : The module "audio_info_frame" instantiated to "audio_info_frame" is swept in optimizing("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_picker.sv":143)
+WARN  (NL0002) : The module "audio_sample_packet" instantiated to "audio_sample_packet" is swept in optimizing("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_picker.sv":131)
+WARN  (NL0002) : The module "auxiliary_video_information_info_frame" instantiated to "auxiliary_video_information_info_frame" is swept in optimizing("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_picker.sv":137)
+WARN  (NL0002) : The module "source_product_description_info_frame" instantiated to "source_product_description_info_frame" is swept in optimizing("D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\HDMI_Sameer_hdlutil\packet_picker.sv":140)
+[95%] Generate netlist file "D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\impl\gwsynthesis\MSX_hdmi_tn9k.vg" completed
+WARN  (CK3000) : The clock "div4/clkdiv_inst/CLKOUT.default_gen_clk"'s frequency does not match clock2/rpll_inst's param "FCLKIN = "25.2""
+WARN  (CK3000) : Can't calculate clocks' relationship between: "clk_48k" and "clock1/rpll_inst/CLKOUT.default_gen_clk"
+WARN  (CK3000) : Can't calculate clocks' relationship between: "clk_48k" and "div4/clkdiv_inst/CLKOUT.default_gen_clk"
+WARN  (CK3000) : Can't calculate clocks' relationship between: "div2/clkdiv_inst/CLKOUT.default_gen_clk" and "clk_1m8"
+WARN  (CK3000) : Can't calculate clocks' relationship between: "div2/clkdiv_inst/CLKOUT.default_gen_clk" and "env_reset"
+[100%] Generate report file "D:\datos\proyectos\42_Tang_Nano_9k\24_MSX_hdmi_tn9k\impl\gwsynthesis\MSX_hdmi_tn9k_syn.rpt.html" completed
+GowinSynthesis finish
